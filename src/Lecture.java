@@ -37,7 +37,7 @@ public class Lecture {
     }
 
 
-    /** Verifie si le fichier existe, appelle une autre methode pour l'arret du programme s'il n'existe pas.
+    /** Verifie si le fichier existe, appelle une autre methode pour l'arret du programme s'il n'existe pas!.
      *
      * @param path contient le chemin relatif du fichier fourni.
      * <code>file, contient le chemin relatif du fichier fourni, sert a verifier l'existance de celui-ci</code>
